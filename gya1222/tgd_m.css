@@ -62,7 +62,7 @@ header #header-bar #header-top-notice strong.notice-badge { background: #FF6969 
 span.a-badge i.fa.fa-info-circle { color: red !important; }
 
 header { border-bottom-color: #FF6969 !important; background: #ffd4d4 !important; }
-header > #header-area > a > h1 { background: url(https://juneyoung-kang.github.io/tgd-css/gya1222/assets/logo.png) no-repeat; background-size: 80px 32px; }
+header > #header-area > a > h1 { background: url(https://juneyoung-kang.github.io/tgd-css/gya1222/assets/logo_m.png) no-repeat !important; background-size: 76px 32px; }
 header > #header-area > #header-bar-link { color: #FF6969 !important; }
 
 #header-top-notice a { font-weight: bold; color: #FF6969 !important; }
