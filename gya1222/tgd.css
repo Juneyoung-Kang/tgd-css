@@ -1,0 +1,61 @@
+/*
+** Github : http://github.com/Juneyoung-Kang/tgd-css
+** Copyright (c) 2018 All rights reserved by JUNEYOUNG KANG
+**
+** This custom css source code used by gya1222 only.
+** 
+** https://tgd.kr/gya1222
+*/
+
+html, body { background: url(https://juneyoung-kang.github.io/tgd-css/gya1222/assets/background.png) no-repeat !important; }
+
+header .row > div:nth-child(1) > a { display: block; width: 145px; height: 50px; background: url(https://juneyoung-kang.github.io/tgd-css/gya1222/assets/logo.png) no-repeat !important; background-position: 0% 0% !important; }
+header .row > div:nth-child(1) > a img { opacity: 0; }
+
+header #header-bar { margin-top: 0.2em; margin-bottom: 1em; padding-right: 30px; padding-left: 30px; }
+header #right-search-form { background-image: url(https://juneyoung-kang.github.io/tgd-css/gya1222/assets/profile.png); background-repeat: no-repeat; width: 50% !important; }
+header #right-search-form > #right-search-btn { color: #FF6969 !important; background: transparent; border: none; font-size: 1.4em; }
+header #right-search-form > input[type=text] { position: relative; border: 3px solid #FF6969 !important; background: #fff; font-size: 1.1em; padding: 0.3em 0.5em; }
+
+header #header-bar > .row { padding-top: 0.3em; padding-bottom: 0.3em; border-top: 4px solid #FF6969 !important; background: #ffd4d4 !important; border-bottom: 2px solid #ebeae8; border-right: 2px solid #ebeae8; }
+header #header-bar #header-top-notice strong.notice-badge { background: #FF6969 !important; padding: 4px 8px; color: #fff !important; font-weight: bold; }
+
+#main .menu-wrapper > .header { background: #FF6969 !important; color: #fff; padding: 0.45em 1.4em 0.45em 1em; font-weight: bold; }
+#main .menu-wrapper > a > em { color: #fb9f9f !important; }
+#main .menu-wrapper > a { color: #FF6969 !important; }
+
+.dropdown > a { color: #FF6969 !important; }
+
+#board-info { padding-left: 80px !important; }
+#board-info > h1 { border-bottom: #FF6969 solid 1px !important; }
+#board-info > h1 > a { color: #FF6969 !important; }
+
+#board-info #board-info-profile-img { float: left !important; width: 80px !important; height: 80px !important; margin-top: -30px !important; margin-left: -90px !important; z-index: 9999; overflow: visible; position: absolute !important; border: 2px outset white !important; object-fit: cover !important; border-radius: 50% !important; }
+#board-info-bottom { color: #FF6969 !important; }
+#board-info-bottom > a { color: #FF6969 !important; }
+
+.badge { background-color: #FF6969 !important; }
+
+.comment-count { color: #FF6969 !important; }
+
+.pagination > .active > a, 
+.pagination > .active > a:focus, 
+.pagination > .active > a:hover, 
+.pagination > .active > span, 
+.pagination > .active > span:focus, 
+.pagination > .active > span:hover 
+{ background-color: #FF6969 !important; border-color: #FF6969 !important; }
+
+#article-content-wrapper > .header { border-top: 3px solid #FF6969 !important; background: #ffd4d4 !important; }
+#article-content-wrapper > .footer { border-bottom: 3px solid #FF6969 !important; background: #ffd4d4 !important; }
+#article-list > .article-list-row > .item > .list-header > span { background-color: #FF6969 !important; color: #fff; font-weight: bold; padding: 1px 5px; font-size: 11px; border-radius: 100px; }
+#article-list > .article-list-row > .item > .list-title > .list-writer.logged > span { color: #FF6969 !important; }
+#article-list #article-list-category { border-top: 3px solid #FF6969 !important; background: #ff9f9f !important; }
+#article-list #article-list-category > a { display: inline-block; padding: 11px 16px; background: #ff9f9f !important; color: #FFF !important; text-decoration: none; font-size: 12px; font-weight: bold; }
+#article-list #article-list-category > a.active { background: #ff9f9f !important; }
+#article-list #article-list-category > a:hover { background: #ff9f9f !important; }
+
+#article-reply-area #reply-real-area .reply > .reply-header { background: #ffd4d4 !important; }
+#article-reply-area > .header h5 { font-size: 14px; color: #FF6969 !important; font-weight: bold; }
+
+.btn-primary { background: #FF6969 !important; border-color: #ffffff !important; }
