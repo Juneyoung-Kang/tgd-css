@@ -2,11 +2,12 @@
 Korean Twitch TV Community, TGD.KR Streamer Custom CSS Outsourcing Works
 
 ## Works
-- [ ] [gya1222](https://tgd.kr/gya1222)  
-    - 작업 기간: SEP30, 2018 ~ 
+- [x] [gya1222](https://tgd.kr/gya1222)  
+    - 작업 기간: SEP30, 2018 (1일)
     - 의뢰 사항: 레퍼런스 디자인 참고
     - 제공 내용: 레퍼런스 디자인, 메인 컬러(#FF6969), 프로필 이미지, 트게더 로고
     - 작업 단가: 15,000원
+![main.png](./gya1222/screenshots/main.png)
 
 ## Copyright
 Copyright (C) 2018 JUNEYOUNG KANG.  
