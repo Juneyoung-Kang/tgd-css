@@ -1,0 +1,52 @@
+/*
+** Github : http://github.com/Juneyoung-Kang/tgd-css
+** Copyright (c) 2019 All rights reserved by JUNEYOUNG KANG
+**
+** This custom css source code used by cutieqri_live only.
+** 
+** https://tgd.kr/cutieqri_live
+*/
+
+html, body { background-color: #FCADCC !important; }
+
+header .row > div:nth-child(1) > a { display: block; width: 145px; height: 50px; background-position: 0% 0% !important; }
+header .row > div:nth-child(1) > a img { opacity: 0; }
+
+header #header-bar { margin-top: 0.2em; margin-bottom: 1em; padding-right: 30px; padding-left: 30px; }
+header #right-search-form { background-image: url(); background-repeat: no-repeat; width: 50% !important; }
+header #right-search-form > #right-search-btn { color: #39BCE0 !important; background: transparent; border: none; font-size: 1.4em; }
+header #right-search-form > input[type=text] { position: relative; border: 3px solid #39BCE0 !important; background: #fff; font-size: 1.1em; padding: 0.3em 0.5em; }
+
+header #header-bar > .row { padding-top: 0.3em; padding-bottom: 0.3em; border-top: 4px solid #39BCE0 !important; background: #fff !important; border-bottom: 2px solid #ebeae8; border-right: 2px solid #ebeae8; }
+header #header-bar #header-top-notice strong.notice-badge { background: #39BCE0 !important; padding: 4px 8px; color: #fff !important; font-weight: bold; }
+
+#main .menu-wrapper > .header { background: #39BCE0 !important; color: #fff; padding: 0.45em 1.4em 0.45em 1em; font-weight: bold; }
+
+#board-info { padding-left: 80px !important; }
+
+#board-info #board-info-profile-img { float: left !important; width: 80px !important; height: 80px !important; margin-top: -30px !important; margin-left: -90px !important; z-index: 9999; overflow: visible; position: absolute !important; border: 2px outset white !important; object-fit: cover !important; border-radius: 50% !important; }
+
+.badge { background-color: #39BCE0 !important; }
+
+.comment-count { color: #39BCE0 !important; }
+
+.pagination > .active > a, 
+.pagination > .active > a:focus, 
+.pagination > .active > a:hover, 
+.pagination > .active > span, 
+.pagination > .active > span:focus, 
+.pagination > .active > span:hover 
+{ background-color: #39BCE0 !important; border-color: #39BCE0 !important; }
+
+#article-content-wrapper > .header { border-top: 3px solid #39BCE0 !important; }
+#article-content-wrapper > .footer { border-bottom: 3px solid #39BCE0 !important; }
+#article-list > .article-list-row > .item > .list-header > span { background-color: #39BCE0 !important; color: #fff; font-weight: bold; padding: 1px 5px; font-size: 11px; border-radius: 100px; }
+#article-list > .article-list-row > .item > .list-title > .list-writer.logged > span { color: #39BCE0 !important; }
+#article-list #article-list-category { border-top: 3px solid #39BCE0 !important; }
+#article-list #article-list-category > a { display: inline-block; padding: 11px 16px; color: #FFF !important; text-decoration: none; font-size: 12px; font-weight: bold; }
+#article-list .article-list-row > { border-top: 2px solid #39BCE0 !important; }
+
+#article-reply-area #reply-real-area .reply > .reply-header { background: #ffd4d4 !important; }
+#article-reply-area > .header h5 { font-size: 14px; color: #FF6969 !important; font-weight: bold; }
+
+.btn-primary { background: #39BCE0 !important; border-color: #ffffff !important; }
